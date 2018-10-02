@@ -1,6 +1,6 @@
-baseurl = "https://kind-swanson-2dbc19.netlify.com/"
+baseurl = "https://mashareko.tk/"
 title = "Kiera"
-copyright = "Copyright &copy; 2017 - Author Name"
+copyright = "Copyright &copy; 2018 - Masha Reko"
 canonifyurls = true
 theme = "kiera"
 
@@ -11,15 +11,21 @@ enableEmoji = true
 pygmentsCodeFences = true
 
 [author]
-    name = ""
-    github = ""
-    gitlab = ""
-    linkedin = ""
-    facebook = ""
-    twitter = ""
-    instagram = ""
+    name = "Masha Reko"
+    github = "https://github.hc.ag/mreko"
+    linkedin = "https://rs.linkedin.com/in/masareko"
+    facebook = "https://www.facebook.com/masha.reko"
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
+    tagline = "What we have to learn to do, we learn by doing. (Aristotle)"
+
+[[menu.main]]
+    name = "Home" 
+    weight = 10 
+    url = "https://mashareko.tk/"
+[[menu.main]]
+    name = "Posts"
+    weight = 20
+    url = "/posts/"
 
 
