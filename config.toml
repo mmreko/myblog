@@ -12,9 +12,9 @@ pygmentsCodeFences = true
 
 [author]
     name = "Masha Reko"
-    github = "https://github.hc.ag/mreko"
-    linkedin = "https://rs.linkedin.com/in/masareko"
-    facebook = "https://www.facebook.com/masha.reko"
+    github = "mmreko"
+    linkedin = "masareko"
+    facebook = "masha.reko"
 
 [params]
     tagline = "What we have to learn to do, we learn by doing. (Aristotle)"
