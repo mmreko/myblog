@@ -8,7 +8,7 @@ meta = "false"
 
 Who am I? To be honest, I don't even know for sure. 
 
-I was born in Belgrade, the capital of Serbia. I was a curious child from the start, and I loved learning. Everything interested me: from books and movies, to music and art. I also played sports: skiing, tennis, golf, basketball - it was impossible to just choose one, so I did them all. I started traveling on my own from a very young age. Volunteering, youth camps, workshops - you name it. Basically, I was all over the place. And then, right before graduating high school, I discovered programming - and decided to focus all the energy I had into becoming a Software Engineer.
+I was born in Belgrade, the capital of Serbia. I was a curious child from the start, and I loved learning. Everything interested me: from books and movies, to music and art. I also played sports: skiing, tennis, golf, basketball - it was impossible to just choose one, so I did them all. I started traveling on my own from a very young age. Volunteering, youth camps, workshops - you name it. Basically, I was all over the place. And then, right before graduating from high school, I discovered programming - and decided to focus all the energy I had into becoming a Software Engineer.
 
 It has already been two years since I graduated from University. I still remember the feeling when I finally defended my bachelor thesis. I remember how empty and confused I felt. What do I do with my life now? There is a small tradition at my University that all graduates follow: take a photo with Nikola Tesla (not the real one of course, but the statue in front of the faculty). Stand proudly next to him holding your diploma. As if we are now equals. 
 
