@@ -1,5 +1,5 @@
 +++
-title = "Day 3"
+title = "Day 3: Self-Evaluation"
 date = 2018-10-04T11:44:54+02:00
 draft = false
 tags = []

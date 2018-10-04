@@ -1,5 +1,5 @@
 +++
-title = "Day 1 and 2"
+title = "Day 1 and 2: Getting Started"
 date = 2018-10-02T17:50:40+02:00
 draft = false
 tags = []
