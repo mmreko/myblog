@@ -1,7 +1,7 @@
 +++
 title = "Day 4: The Requested Operation Requires Elevation"
 date = 2018-10-05T14:59:47+02:00
-draft = true
+draft = false
 tags = []
 categories = []
 +++
@@ -22,5 +22,10 @@ I needed to make a queue data structure for my minimax algorithm implementation.
 
 
 In other news, I still don't have administrator rights on my laptop. I had the urge to burn my laptop and myself with it about 87 times today. It's funny that you start appreciating the little joys of life (such as being able to install Spotify) only when you lose them. I keep seeing that error message even when I close my eyes: __The requested operation requires elevation__. However, I managed to (partialy) work my way around it. Getting the [Scoop](https://scoop.sh/) package manager allowed me to install Node.js, Git and a couple of other stuff using the Windows Command Line. Still no Spotify though :(
+
+
+![Alt Text](https://i.kym-cdn.com/photos/images/newsfeed/001/191/547/b66)
+
+
 
 This post marks the end of my first week as an apprentice. All in all, I couldn't be happier. (Actually, I will be, once I get those admin rights.) Next week, new challenges await. First up: learning __Scala__! Stay tuned!
