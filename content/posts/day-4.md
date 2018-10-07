@@ -1,6 +1,6 @@
 +++
-title = "Day 4"
-date = 2018-10-07T18:38:29+02:00
+title = "Day 4: The Requested Operation Requires Elevation"
+date = 2018-10-05T14:59:47+02:00
 draft = false
 tags = []
 categories = []
