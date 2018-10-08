@@ -14,7 +14,7 @@ I could spend my whole life writing programs in Java. It's like speaking your na
 
 
 
-I am not the one known for taking the easy path; if I decide to leave my comfort zone, I make sure to do it in the most extraordinary way possible. For my new programming language, I could have chosen any object-oriented one similar to Java (which would have made my life much easier). But no. I decided to do what I never did before. I decided to do functional programming with a language that is both object-oriented and functional. I decided to do __Scala__.
+I am not the one known for taking the easy path; if I decide to leave my comfort zone, I make sure to do it in the most extraordinary way possible. For my new programming language, I could have chosen any object-oriented one similar to Java (which would have made my life much easier). But no. I decided to do what I never did before: functional programming with a language that is both object-oriented and functional. I decided to do __Scala__.
 
 
 
