@@ -14,11 +14,11 @@ I could spend my whole life writing programs in Java. It's like speaking your na
 
 
 
-I am not the one known for taking the easy path; if I decide to leave my comfort zone, I make sure to do it in the most extraordinary way possible. For my new programming language, I could have chosen any object-oriented one (which would have made my life much easier). But no. I decided to do what I never did before. I decided to do functional programming.
+I am not the one known for taking the easy path; if I decide to leave my comfort zone, I make sure to do it in the most extraordinary way possible. For my new programming language, I could have chosen any object-oriented one similar to Java (which would have made my life much easier). But no. I decided to do what I never did before. I decided to do functional programming with a language that is both object-oriented and functional. Hello, Scala!
 
 
 
-Therefore, I started to read a book titled _Functional Programming in Scala_ by Paul Chiusano Ruinar Bjarnason. The first lesson I learned is what functional programming actually is: constructing programs using only __pure__ functions (i.e. those that produce no side effects). Sounds easy enough, I thought at first. But then I stopped to think for a second. The fact that functions are pure, implies that they cannot modify data structures. Once I realized that, I slowly started to panic. Even writing a simple loop seemed impossible at this point. 'Why would anyone even want to constrain himself like this?' I asked myself. However, as if it knew what I was thinking, the book answered my question: for better modularity, testability, reusability, paralellization. Ok, that doesn't sound bad. I guess I should give it a chance.
+With that said, I started to read a book titled _Functional Programming in Scala_ by Paul Chiusano Ruinar Bjarnason. The first lesson I learned is what functional programming actually is: constructing programs using only __pure__ functions (i.e. those that produce no side effects). Sounds easy enough, I thought at first. But then I stopped to think for a second. The fact that functions are pure, implies that they cannot modify data structures. Once I realized that, I slowly started to panic. Even writing a simple loop seemed impossible at this point. 'Why would anyone even want to constrain himself like this?' I asked myself. However, as if it knew what I was thinking, the book answered my question: for better modularity, testability, reusability, paralellization. Ok, that doesn't sound bad. I guess I should give it a chance.
 
 
 
