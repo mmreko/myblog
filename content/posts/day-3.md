@@ -20,7 +20,7 @@ With that said, I do have some experience with testing. My bachelor thesis was a
 
 
 
-# Software Design
+## Software Design
 
 
 
@@ -32,7 +32,7 @@ OOP principles I can recite in my sleep: Abstraction, Encapsulation, Inheritance
 
 
 
-# Communication
+## Communication
 
 
 
@@ -40,7 +40,7 @@ Ah, this is the area that I probably need to work on the most. I've never been m
 
 
 
-# Agile Methods
+## Agile Methods
 
 
 
@@ -48,7 +48,7 @@ Agile, agile, agile... How many times have I heard that word in the past 6 years
 
 
 
-# Learning
+## Learning
 
 
 
@@ -56,7 +56,7 @@ This has to be one of my strong areas, I think to myself. I worked as a Student 
 
 
 
-# Tools
+## Tools
 
 
 
@@ -64,7 +64,7 @@ And finally, the last and least (at least in terms of my knowledge) category: To
 
 
 
-# Instead of a Conclusion
+## Instead of a Conclusion
 
 
 
