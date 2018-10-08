@@ -10,7 +10,11 @@ Today I had to fill in a self-evaluation sheet.
 
 To tell you the truth, I hate self-evaluations. It has always been hard for me to realistically assess my knowledge. I find that the more you learn about something, the more you realize how much you actually don't know. So I keep staring at this Excel sheet and these terms listed there, and I think: well, I know this stuff. I studied about it. Probably even got a good grade at the exam. But how much do I really KNOW? I thought that maybe writing a blog post about it could help in finding out. 
 
-# Testing
+
+
+## Testing
+
+
 
 Even though my fellow coleagues at the University bashed their heads against the desk every time the professor mentioned it, I fell in love with testing from the very beginning. Not sure why. I always found some weird satisfaction in breaking other people's code. Or my own, for that matter. That may sound evil at first glance, but it really is not. Actually, in my head it has never been about breaking the code - but rather about finding places where it could be fixed and improved. Every failed test means a chance to do better in the next version. Kind of like in real life, right? :)
 
