@@ -30,4 +30,6 @@ As I started to dive deeper into the functional programming concepts, I found th
 
 
 
-I am still not sure if I like this functional approach or not, to be honest. It's different (a lot different!) than everything I've ever done, and it is still a challenge to change my way of thinking and solving problems, in order to adapt. Nevertheless, the small victories that come with learning a new language certainly help in keeping my spirits up. It's been a while since I was excited about printing _Hello, world!_ or successfully computing a factorial. So I end this day with a feeling of success, trying not to let myself think how far I am from the ultimate goal. Just like a journey of a thousand miles must begin with a single step, mastering Scala must begin with a _Hello, world!_ Everything else will follow with time.
+I am still not sure if I like this functional approach or not, to be honest. It's different (a lot different!) than everything I've ever done, and it is still a challenge to change my way of thinking and solving problems, in order to adapt. Nevertheless, the small victories that come with learning a new language certainly help in keeping my spirits up. It's been a while since I was excited about printing _Hello, world!_ or successfully computing a factorial. So I end this day with a feeling of success, trying not to let myself think how far I am from the ultimate goal. Just like a journey of a thousand miles must begin with a single step, mastering Scala must begin with a _Hello, world!_ 
+
+Everything else will follow with time.
