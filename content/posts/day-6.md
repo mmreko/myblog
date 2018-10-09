@@ -16,7 +16,7 @@ It's been one hell of a ride so far, I must say. A quarter of a century worth of
 
 
 
-And it's quite fitting, I think, that today is also a so-called __Ada Lovelace Day__. The day we celebrate a woman who made groundbreaking contributions to computer science and beyond. In the time when the world was so strictly dominated by men, Ada Lovelace managed to be the first computer programmer. She studied mathematics and science when women were forbidden to do so, wrote the first computer algorithm, and had ideas so advanced that it took more than a century to have them recognized and fully understood. In her honor, every second Tuesday in October we celebrate the achievements of women - in science, technology, engineering and mathematics. 
+And it's quite fitting, I think, that today is also a so-called __Ada Lovelace Day__. The day we celebrate a woman who made groundbreaking contributions to computer science and beyond. In the time when the world was so strictly dominated by men, Ada Lovelace managed to be the first computer programmer. She studied mathematics and science when women were forbidden to do so, wrote the first computer algorithm, and had ideas so advanced that it took more than a century to have them recognized and fully understood. In her honor, every second Tuesday in October, we celebrate the achievements of women - in science, technology, engineering and mathematics. 
 
 
 
