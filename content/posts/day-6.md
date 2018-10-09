@@ -20,7 +20,7 @@ And it's quite fitting, I think, that today is also a so-called __Ada Lovelace D
 
 
 
-It has always been my goal to be a part of this amazing group of women. Through this apprenticeship, I am trying to push my boundaries and get myself one step closer to this goal. And even though my contribution will likely not be as big as the one from Lady Lovelace, it would make me the happiest person in the world if what I do inspires at least one girl out there to follow her dreams and make them come true.
+It has always been my goal to be a part of this amazing group of women. Through this apprenticeship, I am trying to push my boundaries and get myself one step closer to reaching it. And even though my contribution will likely not be as big as the one from Lady Lovelace, it would make me the happiest person in the world if what I do inspires at least one girl out there to follow her dreams and make them come true.
 
 
 
