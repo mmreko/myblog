@@ -17,3 +17,5 @@ For this first post, I wanted to explain why I am doing this apprenticeship in t
 So here I am, sitting at my desk in an almost empty office, trying to finish up this blog before I go home. I spent most of my second day getting the blog up and running, setting up the DNS and summoning inspiration for my first post. I hope that when I upload this you'll all be able to see it, otherwise the struggle was in vain :) In any case, this post marks the beginning of my journey. Now it's time to start working and learning.
 
 I hope you follow me through IT :) Cheers!
+
+
