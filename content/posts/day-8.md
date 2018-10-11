@@ -30,7 +30,7 @@ But then, what does it depend on? I found many answers online, which turned out 
 
 
 
-> Use OOP if you don’t know what you’re doing, FP if you do.
+> Use OOP if you don't know what you're doing, FP if you do.
 
 
 
