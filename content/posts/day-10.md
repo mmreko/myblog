@@ -10,7 +10,9 @@ I spent this Monday morning sitting at my desk with a huge cup of coffee, starin
 
 
 
-I knew that I had to continue with Scala, but something just didn't feel right. Even though I learned a lot over the past week, I somewhat had the impression that this knowledge was basically a huge unstructured pile of theoretical stuff. Solving problems still didn't come naturally, as I always had to dig through that pile in the hope of coming across something useful. That made me way too slow for my liking. I wondered why that was the case. Am I doing it all wrong? I may sometimes be impatient, but I don't think that I am stubborn. When I feel that a way of doing something is wrong, I am certainly not afraid to change it.
+I knew that I had to continue with Scala, but something just didn't feel right. Even though I learned a lot over the past week, I somewhat had the impression that this knowledge was basically a huge unstructured pile of theoretical stuff. Solving problems still didn't come naturally, as I always had to dig through that pile in the hope of coming across something useful. That made me way too slow for my liking. I wondered why that was the case. Am I doing it all wrong? 
+
+I may sometimes be impatient, but I don't think that I am stubborn. When I feel that a way of doing something is wrong, I am certainly not afraid to change it.
 
 
 
