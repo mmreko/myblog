@@ -20,11 +20,11 @@ Therefore, I did a quick Google search and found another book titled _Scala by E
 
 
 
-So I put my coffee down and happily dived into the new book. Its language was simple and easy to understand, while the examples were many and concrete, slowly gaining in difficulty. I ended up reading one third of the book in one afternoon. Everything that was more or less unclear in my head suddenly found its meaning. Many blanks got filled, even those I didn't know I had. And that huge pile of random Scala-related stuff finnaly started to gain a form.
+So I put my coffee down and happily dived into the new book. Its language was simple and easy to understand, while the examples were many and concrete, slowly gaining in difficulty. I ended up reading one third of the book in one afternoon. Everything that was more or less unclear in my head suddenly found its meaning. Many blanks got filled, even those I didn't know I had. And that huge pile of random Scala-related stuff finaly started to gain a form.
 
 
 
-At the end of the day, I was pretty proud of myself. Instead of stubbornly continuing with the same thing and expecting different results, I wasn't afraid of going back and changing the approach. People tend to regard a step backward as a failure, but that is such a closed-minded view. 
+At the end of the day, I was pretty proud of myself. Instead of stubbornly continuing with the same thing and expecting different results, I wasn't afraid of going back and changing the approach. People tend to regard a step backwards as a failure, but that is such a closed-minded view. 
 
 
 
