@@ -14,7 +14,7 @@ I took a glance at my backlog, and there it was, staring at me in all its glory 
 
 
 
-I hate Linux. I think by now everyone in the office already knows that, but I don't think it can be said enough times to convey just how much I __hate__ it. The reasons are many, ranging from its incompatibility with many production applications and drivers, all the way to the user experience. I even refused a fantastic laptop just because I couldn't run Windows on it. Little did I know that, ironically, Linux would be waiting for me just around the corner.
+I hate Linux. I am pretty sure that by now everyone in the office already knows that, but I don't think it can be said enough times to convey just how much I __hate__ it. The reasons are many, ranging from its incompatibility with many production applications and drivers, all the way to the user experience. I even refused a fantastic laptop just because I couldn't run Windows on it. Little did I know that, ironically, Linux would be waiting for me just around the corner.
 
 
 
