@@ -30,7 +30,7 @@ I gave my best to tone down my obvious distaste for the way the environment look
 
 
 
-All in all, I must say that I had _a little_ fun testing those commands and exploring the UNIX file system. Perhaps once I get my hands on more complex stuff, I start having _more_ fun. Stranger things have happened, right?
+All in all, I must admit that I had _a little_ fun testing those commands and exploring the UNIX file system. Perhaps once I get my hands on more complex stuff, I start having _more_ fun. Stranger things have happened, right?
 
 
 
