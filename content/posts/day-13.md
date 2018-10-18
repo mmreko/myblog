@@ -10,7 +10,7 @@ So it's day 2 of learning bash and therefore the perfect time to ask that ever-s
 
 
 
-Perhaps I should note that this has nothing to do with my obvious distaste for Linux. I am a thorough person by nature, and knowing stuff just for the sake of knowing them is simply not my thing. I just need to understand _why_ is something important/necessary/vital to know and how can I possibly use it for something practical. With bash, that just wasn't obvious to me. After all, modern scripting languages, such as Python and Ruby, have a huge variety of modules (or gems) that offer everything that bash does, and more.
+Perhaps I should note that this has nothing to do with my obvious distaste for Linux. I am a thorough person by nature, and knowing stuff just for the sake of knowing them is simply not my thing. I just need to understand _why_ is something important/necessary/vital to know and how can I possibly use it in practice. With bash, that just wasn't obvious to me. After all, modern scripting languages, such as Python and Ruby, have a huge variety of modules (or gems) that offer everything that bash does, and more.
 
 
 
