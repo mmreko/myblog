@@ -32,7 +32,7 @@ Therefore, I really don't see why so many people thought that bash was hard. Per
 
 
 
-And finally, I would never describe bash as "bad". Of course it falls short in comparisson to Python and Ruby, when more complex operations are needed. However, when it comes to simple and routine DevOps tasks, there is simply no need for anything more complex than bash. It is just enough to do the job, which is ultimately the only thing that matters.
+And finally, I would never describe bash as "bad". Of course it falls short in comparisson to Python and Ruby, when more complex operations are needed. However, when it comes to simple and routine DevOps tasks, there is simply no need for anything more complicated than bash. It is just enough to do the job.
 
 
 
