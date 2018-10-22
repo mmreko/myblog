@@ -1,5 +1,5 @@
 +++
-title = "Day 15"
+title = "Day 15: New Week, New Challenge"
 date = 2018-10-22T16:43:21+02:00
 draft = false
 tags = []
