@@ -26,7 +26,7 @@ Honestly, I love challenges like this. It is the only type of competition that I
 
 
 
-So every once in a while, I find an oportunity to create a challenge for myself and see if I am capable of completing it. Actually, it's not even about completing it; here, unlike in functional programming, the value lies in side effects, and not in the end result. A challenge like this gives me a target to reach, but - as strange as that sounds - it does not make that target the ultimate goal. Of course it will give me a sense of success once I complete all 99 _katas_, but the code I produce will be more or less unusable. Probably no one will ever look at it again, including me.
+So every once in a while, I find an oportunity to create a challenge like this for myself and see if I am capable of completing it. Actually, it's not even about completing it; here, unlike in functional programming, the value lies in side effects, and not in the end result. A challenge like this gives me a target to reach, but - as strange as that sounds - it does not make that target the ultimate goal. Of course it will give me a sense of success once I complete all 99 _katas_, but the code I produce will be more or less unusable. Probably no one will ever look at it again, including me.
 
 
 
