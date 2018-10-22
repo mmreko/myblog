@@ -14,7 +14,7 @@ I had a meeting with my menthor Periklis the other day, where we mostly talked a
 
 
 
-Thankfully, it's still something that can be easily fixed.
+Thankfully, it's still something that can be easily fixed. 
 
 
 
