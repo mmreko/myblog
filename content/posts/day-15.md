@@ -18,7 +18,7 @@ Thankfully, it's still something that can be easily fixed.
 
 
 
-Therefore, before diving into more complex things, I decided to stop for a moment and exercise what I've learned so far. I had a choice to either work on a small "pet project" or do _katas_. Since it became clear that I don't quite understand the concepts of _slow_ and _small_, there was a realistic danger of having my "pet project" grow into a huge beast that I won't be able to contain. So I opted for _katas_. However, in order to make it more interesting, I created a challenge for myself: __solve 99 _katas_ in Scala__ from this [page](http://aperiodic.net/phil/scala/s-99/) (in as much time as necessary). 
+Therefore, before diving into more complex things, I decided to stop for a moment and exercise what I've learned so far. I had a choice to either work on a small "pet project" or do _katas_. Since it became clear that I don't quite understand the concepts of _slow_ and _small_, there was a realistic danger of having my "pet project" grow into a huge beast that I won't be able to contain. So I opted for _katas_. However, in order to make it more interesting, I created a challenge for myself: __solve 99 _katas_ __ from this [page](http://aperiodic.net/phil/scala/s-99/) (in as much time as necessary). 
 
 
 
