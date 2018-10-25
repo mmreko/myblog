@@ -36,7 +36,7 @@ Over the past two weeks, whenever I got tired of Scala, I rested my brain by lea
 
 
 
-So almost every day for the past 15 days, I spent at least one hour with React, its components, prompts, states and events. Today, I am finally ready to use it in practice. In a couple of hours I managed to complete a good part of my GUI, all the while beaming with pride because I managed to add another tool to my toolbox. And which is more: I did it with so much joy, having fun each step of the way, and never for a moment feeling pressured or stressed.
+So almost every day for the past 15 days, I spent at least one hour with React, its components, prompts, states and events. Today, I am finally ready to use it in practice. In a couple of hours I managed to complete a good part of my GUI, all the while beaming with pride because I successfully added another tool to my toolbox. And which is more: I did it with so much joy, having fun each step of the way, and never for a moment feeling pressured or stressed.
 
 
 
