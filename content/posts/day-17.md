@@ -10,7 +10,7 @@ Today I continue in the same spirit as in the previous post: with my obvious fas
 
 I've always regarded myself as a backend engineer, rather than a frontend one. The thing is, when I started learning about software development, frontend mostly came down to pure HTML and CSS, which I hated with a heat of a thousand suns. I could never find joy in it, just pure frustration (with the margins misbehaving, divs floating to weird places, text refusing to align, and so on). Backend, on the other hand, I loved. Simply, that's where all the magic happened. 
 
-Nevertheless, things changed over the past couple of years, with the emergence of _Angular_, _React_, and many other frontend technologies that made UI development easier and more enjoyable. I kept hearing about these technologies here and there, which greatly sparked my interest, but I never got around to actually trying them out. Unfortunately, as good as University is for some things, it doesn't leave you much time and energy to learn stuff that are not in the syllabus. So I had to stick with the same old HTML and CSS.
+Nevertheless, things changed over the past couple of years, with the emergence of _Angular_, _React_, and many other frontend technologies that made UI development easier and more enjoyable. I kept hearing about these technologies here and there, which greatly sparked my interest, but I never got around to actually trying them out. Unfortunately, as good as University is for some things, it doesn't leave you much time and energy to learn stuff that are not in the syllabus.
 
 But now, there is no more University, and thus - no more excuses.
 
@@ -22,6 +22,6 @@ Basically, the trick is to break each view into multiple _components_ that can h
 
 Finally, _React_ can work well with any technology stack, without the need to modify the existing code. With the help of _Node.js_, it can also render on the server, while _React Native_ can be used for mobile applications - regardless of the operating system they run on.
 
-All in all, I can say that this backend engineer is starting to _love_ the frontend in ways I thought were imposible - all thanks to _React_. I am not sure I will ever completely switch gears to the frontend, but I definitely feel more complete as an engineer and software crafter, now that I learned this technology. Not that my word would mean much, and not that others haven't said so before, but I wholeheartedly recommend you to try it, if you haven't done so already.
+All in all, I can say that this backend engineer is starting to _love_ the frontend in ways I thought were imposible - all thanks to _React_. It was so much fun playing around with components and seeing how they change and communicate with each other, that I completely forgot about my frustrations with CSS. I am not sure I will ever completely switch gears to the frontend, but I definitely feel more complete as an engineer and software crafter, now that I learned this technology. Not that my word would mean much, and not that others haven't said so before, but I wholeheartedly recommend you to try it, if you haven't done so already.
 
 Remember: _be the steamroller, not the road._
