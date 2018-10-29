@@ -28,7 +28,7 @@ Then, I decided to finally set up RSS for this blog, which I probably should hav
 
 It's been a long day already (woke up at 6 this morning, and I am so NOT a morning person), so I'm off to pour myself some coffee and take a look at _bash_, that I managed to completely neglect while being busy with other stuff.
 
-On a different note, other apprentices and me signed up for __The Conference for Software Craft and Testing (SoCraTes)__ that takes place in January in [Finland](https://codefreeze.fi/) (way up north, above the Arctic Circle). Apparently you sign up for it by creating a _pull request_ on their [GitHub repository](https://github.com/rinkkasatiainen/codefreeze.fi#readme), which is something I found very amusing. Anyways, looking forward to freezing in the harsh finish winter, together with other Software Crafters!
+On a different note, other apprentices and me signed up for __The Conference for Software Craft and Testing (SoCraTes)__ that takes place in January in [Finland](https://codefreeze.fi/) (way up north, above the Arctic Circle). Apparently you sign up for it by creating a _pull request_ on their [GitHub repository](https://github.com/rinkkasatiainen/codefreeze.fi#readme), which is something I found very amusing. Anyways, looking forward to freezing in the harsh Finnish winter, together with other Software Crafters!
 
 
 
