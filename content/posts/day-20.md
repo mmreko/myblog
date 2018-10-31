@@ -6,6 +6,8 @@ tags = []
 categories = []
 +++
 
+(A creepy title in the spirit of Halloween, haha)
+
 I continued playing around with [Puppeteer](https://pptr.dev/) and Headless Chrome today, this time writing some actual __headless browser tests__. I've spent quite a bit of time trying to find a proper tutorial online that would explain to me in simple words what I need to do. However, I wasn't that lucky. I gathered some useful tidbits here and there (mostly from this [page](https://www.valentinog.com/blog/ui-testing-jest-puppetteer/)), but ultimately ended up "brute forcing" my way through it, trying many different approaches until I finally had all the tests green.
 
 So in an attempt to make life easier for someone that decides to test his luck with "puppeteering" like me, I decided to write a brief blog post explaining how you can use Puppeteer to write tests for your JavaScript application. Not sure if this is the proper way to do it, but hey, it works!
@@ -51,7 +53,7 @@ In order to make assertions, we need some help from external libraries. I used [
 
 Finally, once we start the tests using the `npm test` command, we can see the results in our console. Remember, we are using a headless browser here, so we won't be able to see how the tests are executed. There's a trick if we want to go around it, though. Here are the steps.
 
-1. Launch the browser in non-headless mode, configure it to run the actions in slow motion (otherwise it will be so fast that you won't be able to see anything!) and set its dimensions.
+First, launch the browser in non-headless mode, configure it to run the actions in slow motion (otherwise it will be so fast that you won't be able to see anything!) and set its dimensions.
 
 ```javascript
 browser = await puppeteer.launch({ 
@@ -61,14 +63,14 @@ browser = await puppeteer.launch({
 });
 ```
 
-2. Set the dimensions of the page, too.
+Set the dimensions of the page, too.
 
 ```javascript
 page = await browser.newPage(); 
 await page.setViewport({ width, height }); 
 ```
 
-3. When performing a test, set a timeout to a larger value (for example 15000). If this is not done, the test will be aborted after the default 5 seconds, which is not enough to see everything unfold on your screen.
+When performing a test, set a timeout to a larger value (for example 15000). If this is not done, the test will be aborted after the default 5 seconds, which is not enough to see everything unfold on your screen.
 
 ```javascript
 test("test name", async () => {
