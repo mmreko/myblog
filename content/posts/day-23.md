@@ -20,4 +20,4 @@ So what I did first was compare the Docker containers with their beloved virtual
 
 Next, I did a demo to show them how you can deploy your containers anywhere - on your local machine, on the server, on the cloud - it doesn't really matter. The process is still the same. I demonstrated how containers facilitate both development and deployment in production. How they enable easier scaling, testing and bug tracking. And sure, even if Docker is a bit hard to grasp in the beginning, once you get the hang of it - everything goes smoothly. Besides, if I as a student could learn it, then a senior developer surely can too. 
 
-So, to summarize. Docker is cool, use it. And if you have to convince someone of something, convince yourself first. Convince yourself so much, that when people look at you have no choice but to be convinced too.
+So, to summarize. Docker is cool, use it. And if you have to convince someone of something, convince yourself first. Convince yourself so much, that when people look at you, they'll have no choice but to be convinced too.
