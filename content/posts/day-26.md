@@ -7,9 +7,9 @@ categories = []
 +++
 
 I always say that University teaches you three important things (and everything else comes as a result of those), namely:
-* how to study
-* how to Google
-* how to organize
+1. how to study
+2. how to Google
+3. how to organize
 
 Everyone studies differently, and what works for me would probably not work for someone else, and vice versa. So I won't spend much time explaining that today. Googling stuff is an incredibly important skill, especially for software engineers (we all know that our life would be a thousand times harder without it). But again, that's not something one could teach; it just comes naturally, with experience.
 
