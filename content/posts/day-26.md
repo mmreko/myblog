@@ -7,6 +7,7 @@ categories = []
 +++
 
 I always say that University teaches you three important things (and everything else comes as a result of those), namely:
+
 1. how to study
 2. how to Google
 3. how to organize
