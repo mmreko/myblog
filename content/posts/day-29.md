@@ -54,17 +54,28 @@ val future = Future { // this is just calling the Future's apply method
 future.forEach(result => println(result))
 ```
 
-And finally, the last approach to parallelism that I discovered is the one called __Akka__. Akka is a a free and open-source toolkit and runtime that simplifies the construction of concurrent and distributed applications on the JVM by using the concept of `Actors`. An `Actor` is essentially a concurrent process that doesn't constantly occupy a thread. Rather, it does so only when it receives a _message_. Multiple threads can send messages to the `Actor` simultaneously, but it processes them only one at a time. This also means that there is no danger of deadlocks - we will certainly never run out of threads. All we have to do is create a task and send it to the `Actor` - Akka will figure out the rest.
+And finally, the last approach to parallelism that I discovered is the one called __Akka__. Akka is a a free and open-source toolkit and runtime that simplifies the construction of concurrent and distributed applications on the JVM by using the concept of `Actors`. An `Actor` is essentially a concurrent process that doesn't constantly occupy a thread. Rather, it does so only when it receives a _message_. Multiple threads can send messages to the `Actor` simultaneously, but it processes them only one at a time. This means that there is no danger of deadlocks - we will certainly never run out of threads. Additionally, as each `Actor` can modify only its own internal state, the data will never be corrupted. So all we have to do is create a task and send it to the `Actor` - Akka will figure out the rest.
 
 ``` scala
-import akka.actor.Actor
+import akka.actor.{Actor, ActorSystem, Props}
 
-val actor = new Actor {
- override def receive(): Unit = {
-     case UserTask(...) => ...
- }
+object Worker { // companion object of the actor class
+    case object Message // add case classes for each type of message the actor receives
+    def props() : Props = Props(new Worker()) // configuration parameters for the actor
 }
-actor ! UserTask(...)
+
+class Worker extends Actor {
+	import Worker._
+	
+	override def receive(): Unit = { // method to handle different types of messages
+		case Message => ...
+	}
+}
+
+val system = ActorSystem("systemName") // actor factory
+val worker = system.actorOf(Worker.props(), "actorName") // create actor
+
+worker ! Worker.Message // send message to the actor
 ```
 
 On another note, what if our threads have to access/modify the same data? As in Java, we can deal with this issue in several ways:
