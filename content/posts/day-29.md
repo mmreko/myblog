@@ -21,7 +21,7 @@ val myThread = new Thread(new Runnable {
 myThread.start()
 ```
 
-What are the alternatives, then? Firstly, Java also offers classes called `Executors` and `ExecutorService`, which can be quite helpful. `Executors` class offers static methods for configuring the `ExecutorService`, which allows us to do _thread pooling_. What a _thread pool_ basically does is maintain a fixed number of threads that wait for tasks (i.e. `Runnables`) to be allocated to them (see picture below). This means that there is no need for constantly creating and destroying threads. We can simply reuse them.
+What are the alternatives, then? Firstly, Java also offers classes called `Executors` and `ExecutorService`, which can be quite helpful. `Executors` class offers static methods for configuring the `ExecutorService`, which allows us to do _thread pooling_. What a _thread pool_ basically does is maintain a fixed number of threads that wait for tasks to be allocated to them (see picture below). This means that there is no need for constantly creating and destroying threads. We can simply reuse them.
 
 ![Thread Pool](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Thread_pool.svg/600px-Thread_pool.svg.png)
 
@@ -82,7 +82,7 @@ On another note, what if our threads have to access/modify the same data? As in 
 
 * using __synchronized methods/blocks__ (i.e. _mutexes_), that allow only the thread that holds the mutex to access the data
 * using __volatile annotations__, that are more or less identical to the above, but also allow null values
-* using `AtomicReference` class, which is basically a low-level concurrency primitive
+* using the `AtomicReference` class, which is basically a low-level concurrency primitive
 
 When I was done with the basics (and felt confident enough in my understanding of them), I went back to the dreaded _Purely Functional Parallelism_ chapter in my book. The thing is, the book doesn't really explain any of those basics. It just assumes that I know them all, and dives straight into the low level stuff, which is how to design a library for fully functional parallelism. After seeing what Scala already has to offer off the shelf, I had trouble understanding why would I ever write a library like this from scratch. Sure enough I can't do it any better! However, I gave the book the benefit if the doubt, and went with the flow either way.
 
