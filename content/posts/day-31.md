@@ -1,5 +1,5 @@
 +++
-title = "Day 31: Introducting Property-based Testing"
+title = "Day 31: Introducing Property-based Testing"
 date = 2018-11-19T15:53:06+01:00
 draft = false
 tags = []
