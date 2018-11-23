@@ -1,0 +1,23 @@
++++
+title = "Day 34 and 35: Joining Forces"
+date = 2018-11-23T15:21:10+01:00
+draft = false
+tags = []
+categories = []
++++
+
+No blog post from me yesterday, but there's a good reason behind it nonetheless: it's been a rather busy two days, with - I believe - many steps taken in the right direction. This time I did things a bit differently than before; I teamed up with Anastasia and Deirdre (and later only Anastasia), in the hope that joining forces would bring us at least a bit closer to the goal of mastering Scala. 
+
+If I had to choose one word to describe the whole experience, it would definitely be _relief_. Seeing that the others are going through the same struggles as me, gave me reasurance that I so desperately needed. After all, I wasn't the only one suffering my way through the _Functional Programming in Scala_ book. I wasn't the only one getting frustrated with it on a daily basis, and wondering whether the point of the book was to teach me Scala or just make me feel plain miserable. I am fully aware that learning things the hard way is more often than not also the right way, but it felt so good to share the burden of it with someone else.
+
+So the original plan was to follow Chapter 8 of the book and try to design a purely functional library for property-based testing. The chapter itself was easy and comprehensible in the beginning, but then started relying more and more on the content and exercises from previous chapters, that it was simply impossible to move on without constantly going back and forth through the book. Since not all of us had the pleasure of tackling the _Functional Programming in Scala_ book (and I personally didn't feel completely confident in my own skills), I realized that we won't be able to continue like this for too long. Therefore I proposed we take a break from the property-based testing and go back to Chapter 6 (that covered purely functional state), so that we can make sure that all of us have the same understanding of how to handle state in the functional world. I thought that once we get the basics completely covered, it would be easier to go back to Chapter 8 and finally be able to do it. 
+
+I covered Chapter 6 before already, so I wasn't exactly on unfamiliar ground here. For me it was sort of like doing a _kata_ that I did before all over again. And as is the case with _katas_, where you get better with each try, I think I improved significantly comparing to the first time around. This time it was easier for me to comprehend all the higher-order functions and notice the patterns all around. I could even explain some of the things in my own words, and as I said before, that's always a good sign. Of course, not having to do the exercises alone certainly helped a lot - I guess that's where the true value of pair programming lies, as multiple people can always see better than one. True, we didn't manage to do all of the exercises without mistakes, but we did enough to feel satsified with ourselves and our knowledge. There were very few instances when we simply had no clue what to do; most of the time we were on the right path and missed the correct solution by just a teeny tiny margin. Next time hopefully that margin will be even smaller. And one day it will be completely gone. Oh, what a glorious day that will be!
+
+Finally, we wrapped up the chapter after two days, infinite cups of coffee, some frustrations and a lot of smiles. It has been a fun ride, I must say. And a very beneficial one. I realized that we should have done this a long time ago - and often at that - instead of going through everything on our own. Sharing knowledge is so, so, so important. And it saves so much time; my own experience may help someone else with something they struggle with, and vice versa. Besides, the coffee breaks in between the exercises where we can talk about basically anything are quite enjoyable themselves :)
+
+With this I wrap up another week of the apprenticeship. I have another one to go before moving onto the Business phase, when I will be visiting different departments in the company and learning what they do. As for next week, the plan is quite simple and can be put into one sentence: work on the stuff that I struggle with the most: confidence, public speaking and purely functional state. The Holy Trinity. 
+
+With that said, my schedule for next week is quite packed, so it should be an interesting one. I'll make sure to add a group learning activity here and there, too. 
+
+For none of us is smarter than all of us, after all.
