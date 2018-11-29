@@ -6,7 +6,7 @@ tags = []
 categories = []
 +++
 
-As typing with my left hand proved to be a challenging and tiring and endeavor, I've spent some time yesterday trying to think of a possible workaround. Finally, it occurred to me to use one of the [speech recognition tools](https://dictation.io/speech) and dictate my post instead of typing it. Oh, the wonders of modern technology! I was saved. Thankfully today I also did home office for the first time; I can only imagine how crazy I look sitting here and talking to my laptop as if it was a psychiatrist.
+As typing with my left hand proved to be a challenging and tiring endeavor, I've spent some time yesterday trying to think of a possible workaround. Finally, it occurred to me to use one of the [speech recognition tools](https://dictation.io/speech) and dictate my post instead of typing it. Oh, the wonders of modern technology! I was saved. Thankfully today I also did home office for the first time; I can only imagine how crazy I look sitting here and talking to my laptop as if it was a psychiatrist.
 
 I've spent the last two days reading the _Building Microservices_ book and thoroughly enjoying it. I'd say it's very well-written and understandable even for those without any experience in microservices. In my case, it confirmed some of the things I've already known, explained a couple I found confusing,  and opened up some new horizons for me to explore.  
 
