@@ -10,8 +10,6 @@ Another day at the (home) office, and yet another post on software design. Today
 
 Microservices are an _architectural_ pattern, which means that they allow us to model a high-level structure of the entire system. The main idea behind them is to decompose a large, complex system into multiple, loosely coupled services. I find it astounding how popular microservices have become over the last few years. Everywhere you go, in everything you do, microservices are there. I think what contributed to their popularity is the fact that they also go hand-in-hand with many other advancements in software engineering, such as Agile software development, cloud computing, DevOps culture, continuous integration and continuous deployment, and of course containers.
 
-![Microservices](https://www.mememaker.net/api/bucket?path=static/img/memes/full/2018/May/11/19/microservices-127478.png)
-
 __But why are they so good? What are the problems that they solve?__ Here are some I can think of from the top of my head:
 
 * Microservices can defer in terms of __technologies__ that they use. This means that we can choose the best tools for the job every time.
