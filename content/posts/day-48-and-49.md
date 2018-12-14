@@ -14,7 +14,7 @@ Now, a funny thing happened on Day 1. Yes, I found myself starting with a test. 
 
 Then on Day 2 I decided to do a small experiment: do the challenge _without_ TDD. I had my experience from the day before that I wished to compare with my old way of doing things, which was jumping straight into coding. Did I still find that approach easier and faster? I was really curious to find out the answer.
 
-I was very inspired that day, so I threw ideas all over the place and my code grow so fast, that it was hard to keep track of it. Eventually, I finished the challenge - or at least I thought I did. Everything seamed right, and I was pretty sure that it would work.
+I was very inspired that day, so I threw ideas all over the place and my code grew so fast, that it was hard to keep track of it. Eventually, I finished the challenge - or at least I thought I did. Everything seamed right, and I was pretty sure that it would work.
 
 Alas, of course it didn't. 
 
