@@ -8,7 +8,7 @@ categories = []
 
 As I announced yesterday, today's post will also be a bit more tech-centric. I felt like I needed to summarize what I learned in a concise way, so that I can check how much from it I actually understood; after all, if you can't explain it, then you don't know it - am I right?
 
-While spending a week in User Flow, I realized I was still missing knowledge about some terms that are apparently used quite frequently in the world of Scala. So yesterday and today I dived a bit more into the FP principles, catching up with a bit of theory that I guess I should have covered a bit earlier. But anyways, it is never to late, I suppose.
+While spending a week in User Flow, I realized I was still missing knowledge about some terms that are apparently used quite frequently in the world of Scala. So yesterday and today I dived a bit more into the FP principles, catching up with a bit of theory that I guess I should have covered earlier. But anyways, it is never to late, I suppose.
 
 So my topic of the day was __Type classes__. I heard a lot of people mentioning _Monoids_ and _Monads_ and so on, but I never quite understood what they were. At first I thought that was some complex, high-level, impossible-to-understand-at-this-point stuff, but it turned out that I was totally wrong, at least when it comes to the basic idea behind them. A quick Google search revealed to me that type classes were basically something I already knew; I just never gave it a proper name (or any name, for that matter). Here is a nice explanation by Miran Lipovača, from his book _Learn You a Haskell for Great Good_:
 
@@ -81,7 +81,7 @@ After understanding the basic idea behind type classes, it was much easier to gr
 * __Monoid__, which is a Semigroup with an additional empty value (which is an identity for the combine operation)
 * __Functor__, which has a mapping operation
 * __Applicative__, which is something between a Functor and a Monad; they allow sequencing of functorial operations (unlike Functors), but these operations must be independent and not affect each other (unlike Monads)
-* __Monads__, which can combine operations that are not independent (one operation can influence the next one, and so on)
+* __Monad__, which can combine operations that are not independent (one operation can influence the next one, and so on)
 
 I followed all this without many problems up until the _Applicative_, where things got much more complicated. I am not sure yet if I got the essence of it right, but let's say that's it for the time being. I'll definitely go back to fix this post if it turns out I got it wrong.
 
