@@ -20,7 +20,7 @@ Alas, of course it didn't.
 
 Something somewhere broke and my hopes turned to dust. But what broke, and where? I had to write a test to find out. It was a tiring and frustrating process, but in the end the tests helped and my code worked. I paused for a second to think. So I had to write all of these tests anyways. Why didn't I write them first, then? Contrary to what I thought before, it would have saved me so much time. And I wouldn't get so stressed in the process. Yes, TDD would have been a way better choice!
 
-![TDD](https://memegenerator.net/img/instances/76284045.jpg)
+![TDD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLZF2urUdh2zbpgjGay5DsVxdiKP6BTSfwLJjGIMvEii2N1h85Q)
 
 I suddenly felt my love for TDD grow exponentially, so I dug through my numerous files and found the book _TDD By Example_ by Kent Beck. I thought it would be nice to get a few tips from _the man_ himself (Kent Beck was the one who invented TDD!). The book was a nice and quick read; the author didn't try to suffocate his readers with boring theory, but rather walk us through an example, and offer some practical tips in the end. So here comes the summary of what I learned.
 
