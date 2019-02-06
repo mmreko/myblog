@@ -8,7 +8,7 @@ categories = []
 
 A short update on how things are progressing...
 
-In short: very well! Today we talked to IT Ops about the issue of authentication. They agreed to generate a service account for us through which we can use LDAP for login to our platform. Not sure yet how this will work exactly - but hey - we're here to learn! I must admit it is a bit of a relief that we don't need to make all this from scratch. If this LDAP thing is not too complicated to use, it will definitely save us a lot of time and allow us to work on other features.
+In short: very well! Today we talked to IT Ops about the issue of authentication. They agreed to help us with it, so we won't have to write the entire authentication from scratch. Not sure yet how this will work exactly - but hey - we're here to learn! If all this doesn't turn out to be too complicated to integrate, it will definitely save us a lot of time and allow us to work on other features.
 
 Once we had all the information gathered and stakeholders identified, we proceeded onto writing a __Requirements Document__. For now it contains all ideas we collected so far, but the actual prioritization and road mapping will still need to happen tomorrow. Once that is done, I'll share our plan on this blog as well :)
 
