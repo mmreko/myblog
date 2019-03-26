@@ -64,7 +64,7 @@ This has to be one of my strong areas, I think to myself. I worked as a Student 
 
 
 
-And finally, the last and least (at least in terms of my knowledge) category: Tools. Not counting Git and Docker. I did my fair share of Git over the years and I believe I know it well. Docker was so scary to me in the beginning, but I'm starting to find my way through it. It's fun though, and I certainly wish to dive deeper into it and discover what more it has to offer. Bash, vim, tmux, Nix & NixOS, deploymate & dmc are all things that I always wanted to learn well, but never got around to. Now is the perfect time, isn't it?
+And finally, the last and least (at least in terms of my knowledge) category: Tools. Not counting Git and Docker. I did my fair share of Git over the years and I believe I know it well. Docker was so scary to me in the beginning, but I'm starting to find my way through it. It's fun though, and I certainly wish to dive deeper into it and discover what more it has to offer. Bash, vim, tmux, Nix & NixOS are all things that I always wanted to learn well, but never got around to. Now is the perfect time, isn't it?
 
 
 
