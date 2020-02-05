@@ -1,4 +1,4 @@
-baseurl = "http://masha-reko.tk/"
+baseurl = "https://masha-reko.tk/"
 title = "Masha Reko - Apprenticeship Blog"
 copyright = "Copyright &copy; 2018 - Masha Reko"
 canonifyurls = true
@@ -22,7 +22,7 @@ pygmentsCodeFences = true
 [[menu.main]]
     name = "Home" 
     weight = 10 
-    url = "http://masha-reko.tk/"
+    url = "https://masha-reko.tk/"
 [[menu.main]]
     name = "Posts"
     weight = 20
