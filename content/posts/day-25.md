@@ -25,7 +25,7 @@ And I was right. I received a lot of positive feedback, which made me incredibly
 
 But as I am writing this post, I start to realize one thing: yes, I am terrified of public speaking. However, over the years I managed to develop this awesome skill to never let that fear show. I learned how to prevent it from completely paralyzing me, no matter how wrong things go. And even though I might never get rid of it completely, I learned how to live with it - and that, in the end, is just enough.
 
-![Picture](https://mashareko.tk/fear.jpg)
+![Picture](https://masha-reko.tk/fear.jpg)
 
 So an advice to all those with a similar fear: Don't fight it. Embrace it. Find a way to thrive in spite of it.  
 
