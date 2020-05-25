@@ -35,7 +35,7 @@ All in all, I personally didn't like the whole TCR approach. I understand the mo
 
 Ah, these ones I found particularly fun! Basically the idea is to practice designing architecture of a system in a similar way you practice coding through _katas_. The kata is performed in iterations with the following phases: _Design & Discuss -> Pitch -> Reflect & Break_. It can be done in as many iterations as you wish, sometimes even lasting a whole day. The architecture is usually documented using a __C4 model__, which is a very nice and concise way to discuss architecture within a team.
 
-![Arch Kata](https://mashareko.tk/archikata.jpg)
+![Arch Kata](https://masha-reko.tk/archikata.jpg)
 
 The materials are all available online, so if you're interested, check [here](https://archkatas.herokuapp.com/rules.html) and [here](http://nealford.com/katas/index.html).
 
