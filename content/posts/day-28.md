@@ -16,7 +16,7 @@ I see now that I've done that thing again during this apprenticeship. I guess I 
 
 Actually, I now think that my way of looking at the problem was all wrong. Or, rather, that I was looking at the wrong problem all along. In any case, my issue was not a lack of practical knowledge. That was just a consequence that stemmed from something bigger and deeper. 
 
-![The Root](https://mashareko.tk/root.jpg)
+![The Root](https://masha-reko.tk/root.jpg)
 
 But enough is enough. It's time for me to open this can of worms that I've kept hidden in some corner of my soul for _so long_. In all honesty, it feels good to finally say it (or rather, write it). It's as if this huge burden fell of my shoulders, with just that one sentence. 
 
