@@ -42,6 +42,6 @@ Here I mostly focused on my new programming language, which is Scala. As I menti
 
 And finally, tools. I went back to my precious Docker last week and did a bit of a revision on its basics. Hopefully in the next weeks I'll find some time to dive a bit deeper in it and try out some more advanced stuff. On the other hand, I've been kind of neglecting bash again. I guess it just doesn't reason well with me. No matter how much I try, I can't find it in me to like it, and that's that. Which is not to say that I won't continue trying. Currently I am reading this _Learn Bash The Hard Way_ book. I like doing things the hard way, so who knows - perhaps this book does it for me in the end.
 
-![Bash Script](https://mashareko.tk/bash_script.jpg)
+![Bash Script](https://masha-reko.tk/bash_script.jpg)
 
 It's been really cool going back to my self-evaluation matrix and seeing how much I've improved in just one month. This apprenticeship program has been very rewarding so far, and hopefully it will continue to be so. I will do my best to keep it up, as always. Anyways, enough with planning and retrospecting. Time to get back to work!
