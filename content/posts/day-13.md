@@ -18,7 +18,7 @@ With that in mind, I hurried over to Google, wanting to understand why is it so 
 
 
 
-![Google Bash](https://mashareko.tk/bash.PNG)
+![Google Bash](https://masha-reko.tk/bash.PNG)
 
 Oh, well. At least it's popular.
 
